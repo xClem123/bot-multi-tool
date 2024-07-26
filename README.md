@@ -32,7 +32,14 @@ Un bot de spam de messages directs pour Discord 📱.
 
 ## 📜 Licence
 
-Ce projet est sous licence GPL 📜. Vous pouvez utiliser, modifier et distribuer ce code comme vous le souhaitez.
+Ce projet est sous licence GPL-3.0 📜. Vous pouvez utiliser, modifier et distribuer ce code comme vous le souhaitez, à condition de respecter les termes de la licence.
+
+**Conditions de la licence GPL-3.0 :**
+
+* Vous devez conserver la notice de copyright et la licence dans toutes les copies du code.
+* Vous devez fournir une copie de la licence avec chaque copie du code.
+* Vous devez indiquer clairement les modifications que vous avez apportées au code.
+* Vous devez distribuer le code sous la même licence GPL-3.0.
 
 ## 🙏 Remerciements
 
