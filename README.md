@@ -1,6 +1,6 @@
-# 🤖 DM Spammer Bot 🤖
+# 🤖 Beatch ser vice tool 🤖
 
-Un bot de spam de messages directs pour Discord 📱.
+Un tool avec plusieure fonctionalité pour discord 📱.
 
 ## 📝 Fonctionnalités
 
