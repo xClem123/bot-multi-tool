@@ -1,4 +1,4 @@
-# 🤖 Beatch ser vice tool 🤖
+# 🤖 Beatch service tool 🤖
 
 Un tool avec plusieure fonctionalité pour discord 📱.
 
