@@ -10,13 +10,13 @@ Un bot de spam de messages directs pour Discord 📱.
 
 ## 📦 Installation
 
-1. Clonez le repository : `git clone https://github.com/votre-username/DM-Spammer-Bot.git` 📁
-2. Installez les dépendances : `pip install -r requirements.txt` 💻
+1. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git` 📁
+2. Installez les dépendances : `setup.bat` 💻
 3. Configurez le fichier `config.json` avec vos informations de connexion Discord 🔒
 
 ## 🤔 Utilisation
 
-1. Lancez le bot : `python main.py` 🚀
+1. Lancez le bot : `Start.bat` 🚀
 2. Choisissez une option dans le menu :
 	* 1 : Lance le bot de spam de messages directs 📨
 	* 2 : Lance le bot de raid 🚫
@@ -27,12 +27,12 @@ Un bot de spam de messages directs pour Discord 📱.
 ## 👥 Crédits
 
 * Développeur : clemontop#0) 👨‍💻
-* Discord server : [votre-discord-server](https://discord.gg/server-boost) 📞
-* GitHub : [votre-github](https://github.com/beatch-service/) 📚
+* Discord server : [discord-server](https://discord.gg/server-boost) 📞
+* GitHub : [github](https://github.com/beatch-service/) 📚
 
 ## 📜 Licence
 
-Ce projet est sous licence GNU 📜. Vous pouvez utiliser, modifier et distribuer ce code comme vous le souhaitez.
+Ce projet est sous licence GPL 📜. Vous pouvez utiliser, modifier et distribuer ce code comme vous le souhaitez.
 
 ## 🙏 Remerciements
 
