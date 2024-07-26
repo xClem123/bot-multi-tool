@@ -1,0 +1,16 @@
+discord.py
+colorama
+termcolor
+asyncio
+pystyle
+fernet
+GPUtil
+browser_cookie3
+pyautogui
+keyboard
+opencv-python
+psutil
+Pillow
+requests
+pathlib
+tasksio

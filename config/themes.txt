@@ -1,0 +1,8 @@
+// all theme
+// green_to_cyan
+// red_to_yellow
+// blue_to_purple
+// cyan_to_blue
+// yellow_to_green
+// purple_to_red
+// blue_to_red
