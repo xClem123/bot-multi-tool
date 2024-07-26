@@ -9,10 +9,10 @@ Un bot de spam de messages directs pour Discord 📱.
 * Supporte plusieurs thèmes pour la console 🎨
 
 ## 📦 Installation
-
-1. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git` 📁
-2. Installez les dépendances : `setup.bat` 💻
-3. Configurez le fichier `config.json` avec vos informations de connexion Discord 🔒
+1. installer python 3.11.9 `https://www.python.org/downloads/release/python-3119/`
+2. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git` 📁
+3. Installez les dépendances : `setup.bat` 💻
+4. Configurez le fichier `config.json` avec vos informations de connexion Discord 🔒
 
 ## 🤔 Utilisation
 
