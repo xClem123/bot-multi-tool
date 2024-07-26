@@ -51,7 +51,7 @@ def main_menu():
     print(Colorate.Horizontal(getattr(Colors, theme), "4. Afficher les credits"))
     print(Colorate.Horizontal(getattr(Colors, theme), "5. Quitter"))
     print("       ")
-    choix = input(Colorate.Horizontal(getattr(Colors, theme), f"{username}@Dm-Spammer -> "))
+    choix = input(Colorate.Horizontal(getattr(Colors, theme), f"{username}@beatch-service -> "))
 
     if choix == "1":
         print(Colorate.Horizontal(getattr(Colors, theme), "Lancement du DM Spammer Bot..."))
