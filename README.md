@@ -26,7 +26,7 @@ Un tool avec plusieure fonctionalité pour discord 📱.
 
 ## 👥 Crédits
 
-* Développeur : clemontop#0) 👨‍💻
+* Développeur : clemontop#0 👨‍💻
 * Discord server : [discord-server](https://discord.gg/server-boost) 📞
 * GitHub : [github](https://github.com/beatch-service/) 📚
 
