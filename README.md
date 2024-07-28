@@ -10,7 +10,7 @@ Un tool avec plusieure fonctionalité pour discord 📱.
 
 ## 📦 Installation
 1. installer python 3.11.9 : `https://www.python.org/downloads/release/python-3119/`
-2. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git` 📁
+2. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git ` 📁
 3. Installez les dépendances : `setup.bat` 💻
 4. Configurez le fichier `config.json` avec vos informations de connexion Discord 🔒
 
