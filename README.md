@@ -10,7 +10,7 @@ Un tool avec plusieure fonctionalité pour discord 📱.
 
 ## 📦 Installation
 1. installer python 3.11.9 : `https://www.python.org/downloads/release/python-3119/`
-2. Clonez le repository : `git clone https://github.com/beatch-service/Beatch-service-tool.git ` 📁
+2. Clonez le repository : `git clone https://github.com/xClem123/bot-multi-tool.git ` 📁
 3. Installez les dépendances : `setup.bat` 💻
 4. Configurez le fichier `config.json` avec vos informations de connexion Discord 🔒
 
@@ -27,8 +27,8 @@ Un tool avec plusieure fonctionalité pour discord 📱.
 ## 👥 Crédits
 
 * Développeur : clemontop#0 👨‍💻
-* Discord server : [discord-server](https://discord.gg/server-boost) 📞
-* GitHub : [github](https://github.com/beatch-service/) 📚
+* Discord server : [discord-server](https://discord.gg/FZ347mg3RN) 📞
+* GitHub : [github](https://github.com/xClem123/) 📚
 
 ## 📜 Licence
 
